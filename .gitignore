@@ -1,2 +1,7 @@
+### Overall ###
+.DS_Store
+
+
+### Jekyll ###
 _site/
 .sass-cache/
